@@ -59,6 +59,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Multimodal LLMs for health grounded in individual-specific data](https://arxiv.org/pdf/2307.09018) by Belyaeva, Anastasiya, et al., arxiv 2023
 - [Path to Medical AGI: Unify Domain-specific Medical LLMs with the Lowest Cost](https://arxiv.org/pdf/2306.10765) by Zhou, Juexiao, Xiuying Chen, and Xin Gao., arxiv 2023
 - [Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5) by Défossez, Alexandre, et al., Nature Machine Intelligence 2023
+- [Large language models improve Alzheimer’s disease diagnosis using multi-modality data](https://arxiv.org/pdf/2305.19280) Feng, Yingjie, et al., arxiv 2023
 
 ### Data Selection
 - [Towards Free Data Selection with General-Purpose Models](https://arxiv.org/pdf/2309.17342) by Xie, Yichen, et al., arxiv 2023
