@@ -15,7 +15,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
   - [Efficient Training](#efficient-training)
   - [Optimization](#optimization)
   - [Healthcare](#healthcare)
-  - [Code Optimization](#code-optimiaztion)
+  - [Code Optimization](#code-optimization)
   - [Data Selection](#data-selection)
 
 ## Benchmark and Dataset
