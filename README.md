@@ -15,7 +15,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
   - [Efficient Training](#efficient-training)
   - [Optimization](#optimization)
   - [Healthcare](#healthcare)
-  - [Code Optimization](#code-optimization)
+  - [Code Optimization and Compiler](#code-optimization-and-compiler)
   - [Data Selection](#data-selection)
 
 ## Benchmark and Dataset
@@ -63,12 +63,13 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Large language models improve Alzheimer’s disease diagnosis using multi-modality data](https://arxiv.org/pdf/2305.19280) by Feng, Yingjie, et al., arxiv 2023
 - [Neuro-GPT: Developing A Foundation Model for EEG](https://arxiv.org/pdf/2311.03764) by Cui, Wenhui, et al., arxiv 2023
 
-### Code Optimization
+### Code Optimization and Compiler
 - [Can Large Language Models Reason about Program Invariants?](https://openreview.net/pdf?id=mXv2aVqUGG) by Pei, Kexin, et al., ICML 2023
 - [The Hitchhiker's Guide to Program Analysis: A Journey with Large Language Models](https://arxiv.org/pdf/2308.00245) by Li, Haonan, et al., arxiv 2023
 - [Clover: Closed-Loop Verifiable Code Generation](https://arxiv.org/pdf/2310.17807) by Sun, Chuyue, et al., arxiv 2023
 - [Formalizing Natural Language Intent into Program Specifications via Large Language Models](https://arxiv.org/pdf/2310.01831) by Endres, Madeline, et al., arxiv 2023
 - [Ranking LLM-Generated Loop Invariants for Program Verification](https://arxiv.org/pdf/2310.09342) by Chakraborty, Saikat, et al., arxiv 2023
+- [Large language models for compiler optimization](https://arxiv.org/pdf/2309.07062) by Cummins, Chris, et al., arxiv 2023
 
 ### Data Selection
 - [Towards Free Data Selection with General-Purpose Models](https://arxiv.org/pdf/2309.17342) by Xie, Yichen, et al., arxiv 2023
