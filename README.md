@@ -17,6 +17,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
   - [Healthcare](#healthcare)
   - [Code Optimization and Compiler](#code-optimization-and-compiler)
   - [Data Selection](#data-selection)
+  - [Others](#others)
 
 ## Benchmark and Dataset
 - [Embedchain](https://github.com/embedchain/embedchain)
@@ -70,6 +71,9 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Formalizing Natural Language Intent into Program Specifications via Large Language Models](https://arxiv.org/pdf/2310.01831) by Endres, Madeline, et al., arxiv 2023
 - [Ranking LLM-Generated Loop Invariants for Program Verification](https://arxiv.org/pdf/2310.09342) by Chakraborty, Saikat, et al., arxiv 2023
 - [Large language models for compiler optimization](https://arxiv.org/pdf/2309.07062) by Cummins, Chris, et al., arxiv 2023
+
+### Others
+- [ClimaX: A foundation model for weather and climate](https://arxiv.org/pdf/2301.10343) by Nguyen, Tung, et al., arxiv 2023
 
 ### Data Selection
 - [Towards Free Data Selection with General-Purpose Models](https://arxiv.org/pdf/2309.17342) by Xie, Yichen, et al., arxiv 2023
