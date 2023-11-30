@@ -63,6 +63,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5) by Défossez, Alexandre, et al., Nature Machine Intelligence 2023
 - [Large language models improve Alzheimer’s disease diagnosis using multi-modality data](https://arxiv.org/pdf/2305.19280) by Feng, Yingjie, et al., arxiv 2023
 - [Neuro-GPT: Developing A Foundation Model for EEG](https://arxiv.org/pdf/2311.03764) by Cui, Wenhui, et al., arxiv 2023
+- [From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models](https://arxiv.org/pdf/2311.13063) by Englhardt, Zachary, et al., arxiv 2023
 
 ### Code Optimization and Compiler
 - [Can Large Language Models Reason about Program Invariants?](https://openreview.net/pdf?id=mXv2aVqUGG) by Pei, Kexin, et al., ICML 2023
