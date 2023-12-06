@@ -73,6 +73,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Formalizing Natural Language Intent into Program Specifications via Large Language Models](https://arxiv.org/pdf/2310.01831) by Endres, Madeline, et al., arxiv 2023
 - [Ranking LLM-Generated Loop Invariants for Program Verification](https://arxiv.org/pdf/2310.09342) by Chakraborty, Saikat, et al., arxiv 2023
 - [Large language models for compiler optimization](https://arxiv.org/pdf/2309.07062) by Cummins, Chris, et al., arxiv 2023
+- [Magicoder: Source Code Is All You Need](https://arxiv.org/pdf/2312.02120.pdf) by Yuxiang Wei1 Zhe Wang2 Jiawei Liu1 Yifeng Ding1 Lingming Zhang, arxiv 2023
 
 ### Others
 - [ClimaX: A foundation model for weather and climate](https://arxiv.org/pdf/2301.10343) by Nguyen, Tung, et al., arxiv 2023
