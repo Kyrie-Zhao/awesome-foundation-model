@@ -33,6 +33,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 ### Multi Modal
 - [ImageBind: One embedding space to bind them all](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf) by Girdhar, Rohit, et al., CVPR 2023
 - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf) by Shah, Dhruv, Błażej Osiński, and Sergey Levine., PMLR 2023
+- [IoT in the Era of Generative AI: Vision and Challenges](https://arxiv.org/pdf/2401.01923) by Wang, Xin, et al., arxiv 2024
 
 ### Agent
 - [TypeFly: Flying Drones with Large Language Model](https://arxiv.org/pdf/2312.14950) by Chen, Guojun, Xiaojing Yu, and Lin Zhong., arxiv 2023
