@@ -9,14 +9,16 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 ## Contents
 - [Benchmark and Dataset](#benchmark-and-dataset)
 - [Open Source Projects](#open-source-projects)
-- [Papers](#papers)
+- [Papers](#papers)   
   - [Multi Modal](#multi-modal)
+  - [Agent](#agent)
   - [Efficient Inference](#efficient-inference)
   - [Efficient Training](#efficient-training)
   - [Optimization](#optimization)
   - [Healthcare](#healthcare)
   - [Code Optimization and Compiler](#code-optimization-and-compiler)
   - [Data Selection](#data-selection)
+  - [Prompt Optimization](#prompt-optimization)
   - [Others](#others)
 
 ## Benchmark and Dataset
@@ -32,6 +34,9 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [ImageBind: One embedding space to bind them all](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf) by Girdhar, Rohit, et al., CVPR 2023
 - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf) by Shah, Dhruv, Błażej Osiński, and Sergey Levine., PMLR 2023
 
+### Agent
+- [TypeFly: Flying Drones with Large Language Model](https://arxiv.org/pdf/2312.14950) by Chen, Guojun, Xiaojing Yu, and Lin Zhong., arxiv 2023
+
 ### Efficient Inference 
 - [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/pdf/2303.06865) by Sheng, Ying, et al., ICML 2023
 - [Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3552326.3587438?casa_token=2Ju1tOw9-OQAAAAA:JiW7lFRbuCbNQp8JxLKq0_Fu5O2HnPKnCtXSBuWYiW0HOJa5AhUEhvaAQVBVoyDN0qAgI2abM73h20A) by Wang, Yiding, et al. EuroSys 2023
@@ -42,7 +47,7 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://dl.acm.org/doi/pdf/10.1145/3575693.3575698) by Guo, Liwei, Wonkyo Choe, and Felix Xiaozhu Lin., ASPLOS 2023
 - [DeepSpeed-inference: enabling efficient inference of transformer models at unprecedented scale](https://ieeexplore.ieee.org/iel7/10046045/10045783/10046087.pdf?casa_token=-l-VUdoAL9cAAAAA:Zt9pbjDGwTuqtX-RSm6Np74l4mUYuPp6ls_xH-wdaIPQig-A6UduT7xDn8Wcsv05W1imTH08mhU) by Aminabadi, Reza Yazdani, et al., SC 2022
 - [PETALS: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/pdf/2209.01188) by Borzunov, Alexander, et al., arxiv 2022
-- 
+- [Fairness in Serving Large Language Models](https://arxiv.org/pdf/2401.00588) by Sheng, Ying, et al., arxiv 2023
 - [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) by Wu, Bingyang, et al., arxiv 2023
 - [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under review
 - [Orca: A Distributed Serving System for {Transformer-Based} Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) by Yu, Gyeong-In, et al., OSDI 2022
@@ -65,6 +70,8 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Neuro-GPT: Developing A Foundation Model for EEG](https://arxiv.org/pdf/2311.03764) by Cui, Wenhui, et al., arxiv 2023
 - [From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models](https://arxiv.org/pdf/2311.13063) by Englhardt, Zachary, et al., arxiv 2023
 - [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/pdf/2310.02374.pdf) by Abbasian, Mahyar, et al., arxiv 2023
+- [UbiPhysio: Support Daily Functioning, Fitness, and Rehabilitation with Action Understanding and Feedback in Natural Language](https://arxiv.org/pdf/2308.10526) by Wang, Chongyang, et al., arxiv 2023
+- [GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning](https://arxiv.org/pdf/2310.20034) by Graule, Moritz A., and Volkan Isler., arxiv 2023
 
 ### Code Optimization and Compiler
 - [Can Large Language Models Reason about Program Invariants?](https://openreview.net/pdf?id=mXv2aVqUGG) by Pei, Kexin, et al., ICML 2023
@@ -75,11 +82,16 @@ This is a list of awesome _**Foundation Model for X and X for Foundation Model**
 - [Large language models for compiler optimization](https://arxiv.org/pdf/2309.07062) by Cummins, Chris, et al., arxiv 2023
 - [Magicoder: Source Code Is All You Need](https://arxiv.org/pdf/2312.02120.pdf) by Yuxiang Wei1 Zhe Wang2 Jiawei Liu1 Yifeng Ding1 Lingming Zhang, arxiv 2023
 
+### Data Selection
+- [Towards Free Data Selection with General-Purpose Models](https://arxiv.org/pdf/2309.17342) by Xie, Yichen, et al., arxiv 2023
+  
+### Prompt Optimization
+- [Prompt-aligned Gradient for Prompt Tuning](http://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf) by Zhu, Beier, et al., CVPR 2023
+- [MaPLe: Multi-modal Prompt Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Khattak_MaPLe_Multi-Modal_Prompt_Learning_CVPR_2023_paper.pdf) by Khattak, Muhammad Uzair, et al., CVPR 2023
+
 ### Others
 - [ClimaX: A foundation model for weather and climate](https://arxiv.org/pdf/2301.10343) by Nguyen, Tung, et al., arxiv 2023
 
-### Data Selection
-- [Towards Free Data Selection with General-Purpose Models](https://arxiv.org/pdf/2309.17342) by Xie, Yichen, et al., arxiv 2023
 
 
 
